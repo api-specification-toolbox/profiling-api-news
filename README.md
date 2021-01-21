@@ -1,2 +1,6 @@
-# profiling-api-news
-This is a project for tracking on the news that happens across the API specifications space.
+# Profiling API News
+This is a project for tracking on the news that happens across the API specifications space. We will be curating stories from around the world on API specifications and take a snippet and post here, routing traffic back to the news article source. Helping aggregate API specification news, making it more available to consumers, while amplifying the interesting things going on in the API space via [the API Specification Toolbox website](http://api.specificationtoolbox.com/).
+
+We are just getting going tracking on the news for the space and adding them to the API toolbox. Feel free to submit news to [the API Specification Toolbox via a GitHub issue, or via pull request on the repository. Ultimately we are looking to automate as much of this work as possible, while maintaining a critical human expert curation before it gets published and syndicated here.
+
+We are using this README to manage this project, and Github issues to manage the conversation and all of the work that occurs around defining all of the areas of this work. If you have any contributions feel free to submit an issue or a pull request on this project, or any other in the API Specification toolbox, including the toolbox itself.
